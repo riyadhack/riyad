@@ -1,8 +1,23 @@
 #iko {
     border-radius: 50px;
-    border: 5px solid black;
+    border: 3px solid black;
+    
     
 }
+
 #olo {
-    padding: 5px
+    font-size: 40px;
+    font-family: Rubik Dirt;
+    
+    
+    
+}
+#imi {
+    
+      
+    padding: 10px;
+    border-color: transparent;
+  color: #fff;
+  background-image: linear-gradient(to right,#0011fa 0,#e316fe 100%);
+ 
 }
