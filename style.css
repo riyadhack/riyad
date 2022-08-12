@@ -1,23 +1,57 @@
-#iko {
-    border-radius: 50px;
-    border: 3px solid black;
-    
-    
+body {
+  
+  
+    color: aliceblue;
+    color: #fff;
+  border-color: transparent;
+  color: #fff;
+  background-image: linear-gradient(to right,rgb(71, 250, 0) 0,rgb(0, 90, 235) 100%);
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+ 
+
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.default {
+  display: inline-flex;
+  color: #fff;
+  border-color: transparent;
+  color: #fff;
+  background-image: linear-gradient(to right,#0011fa 0,#16e3fe 100%);
+
+    display: inline-flex;
+    margin: auto;
+    padding: 5px;
+    border: 3px solid whitesmoke;
+    border-radius: 20px;
+    font-size: 50px;
+   font-family:'Arial Narrow Bold';
+   -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
-#olo {
-    font-size: 40px;
-    font-family: Rubik Dirt;
-    
-    
-    
+#iko {
+  
+  border-radius: 40px;
+  border: 3px solid black;
+  margin-right: 10px;
 }
-#imi {
-    
-      
-    padding: 10px;
-   border-color: transparent;
+
+.wrapper {
+  display: inline-table;
+  border-radius: 50px;
+  padding: 10px;
+ margin: 10px;
+ olor: #fff;
+  border-color: transparent;
   color: #fff;
-  background-image: linear-gradient(to right,#0011fa 0,#e316fe 100%);
- 
+  background-image: linear-gradient(to right,#0011fa 0,#16e3fe 100%);
 }
+
+  
+  
